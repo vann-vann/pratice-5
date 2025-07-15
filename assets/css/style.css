@@ -12,6 +12,7 @@ body{
     margin: auto;
 }
 header{
+    max-width: 100%;
   background-color: white;
 }
 .header{
